@@ -180,12 +180,12 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Token Burner</title>
+        <title>ARSToken</title>
         <meta name="description" content="burn-Dapp" />
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to BURNER DAPP!</h1>
+          <h1 className={styles.title}>Welcome to ARSToken DAPP :))</h1>
           {walletConnected ? (
             <div>
               <div className={styles.description}>
